@@ -46,7 +46,7 @@ public class TutorialC6
         System.out.println(Byte.BYTES);//bytes
         
         //Escape sequence
-        System.out.println("Hello\World"); //for new line
+        System.out.println("Hello\nWorld"); //for new line
         System.out.println("Hamro\tNepal");//for tabs
         System.out.println("She said \" Hi\" ");// double quotation
         
