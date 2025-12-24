@@ -58,9 +58,9 @@ public class Arr
         //System.out.print(mat[i]);
         for(int j=0; j< mat[i].length;j++){
             System.out.println(mat[i][j]);
-            for(int k=0; k<mat[i][j].length;k++){
+            //for(int k=0; k<mat[i][j].length;k++){
                 
-            }
+            //}
         }
         }
     }
