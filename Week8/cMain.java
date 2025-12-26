@@ -22,5 +22,14 @@ public class cMain
         int fixNum= calc.getFixedNumber();
         
         System.out.println("The Fixed Number is: "+ fixNum);
+        
+        int multi=calc.multiply(10,20);
+        System.out.println("The multiplication of first two numbers are:"+multi);
+        
+        //invoking a static method
+        Calculator.square(10);
+        
+        
+        Car c1=new Car();
     }
 }
